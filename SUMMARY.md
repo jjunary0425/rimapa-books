@@ -4,4 +4,5 @@
 
 ## DomainDrivenDesign
 
+* [Prepare](domaindrivendesign/prepare.md)
 * [What is the domain](domaindrivendesign/what-is-the-domain.md)
