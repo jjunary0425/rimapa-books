@@ -6,3 +6,7 @@
 
 * [Prepare](domaindrivendesign/prepare.md)
 * [What is the domain](domaindrivendesign/what-is-the-domain.md)
+
+## Design It
+
+* [Be software architect](design-it/be-software-architect.md)
