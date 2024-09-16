@@ -1,6 +1,6 @@
 # Table of contents
 
-* [My First Page](README.md)
+* [이 블로그에 대하여](README.md)
 
 ## DomainDrivenDesign
 
