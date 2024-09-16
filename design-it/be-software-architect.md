@@ -10,6 +10,8 @@ coverY: 0
 
 ## 소프트웨어 아키텍트가 하는 일
 
+<figure><img src="../.gitbook/assets/DALL·E 2024-09-16 17.46.33 - A dynamic and stylish animation-style image of a software architect working. The scene features a person with glasses and a confident expression, sitt.webp" alt=""><figcaption><p>소프웨  software architect</p></figcaption></figure>
+
 * 프로그래밍
 * 엔지니어링 관점에서 문제를 정의
 * 소프트웨어 시스템을 구현 가능한 작은 조각으로 분해
