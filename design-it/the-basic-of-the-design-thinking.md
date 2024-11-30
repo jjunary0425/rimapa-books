@@ -182,7 +182,7 @@
 
 설계 작업을 할 때마다 알맞은 상자에서 필요한 도구를 꺼내 쓰면 된다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -39,11 +39,25 @@ Would you like to customize the import alias (`@/*` by default)? No / Yes
 
 1. 프로젝트명 (새폴더를 작성하기 때문에 현재 프로젝트 이용하고 싶을때는 . 선택)&#x20;
 2. 타입스크립트 사용할 것인가 yes&#x20;
-3. ESLint 사용할 것인가 yes Tailwind CSS 사용할 것인가 yes
-4. &#x20;src directory 사용할 것인가 yes&#x20;
-5. APP Router 사용할 것인가 yes&#x20;
-6. Import 시 alias 사용할 것인가 no
+3. ESLint 사용할 것인가 yes&#x20;
+4. Tailwind CSS 사용할 것인가 yes
+5. &#x20;src directory 사용할 것인가 yes&#x20;
+6. APP Router 사용할 것인가 yes&#x20;
+7. Import 시 alias 사용할 것인가 no
 
 </details>
 
-### 생성된 프로젝트 이미지
+### 생성된 프로젝트의 동작 확인
+
+`src/app/global.css 의 제일 위 세 줄만 남기고 삭제`
+
+`src/app/page.tsx`의 내용을 전부 삭제 → vscode에서 command + shift + p → rafce 입력
+
+react component의 템플레이트를 작성해줌&#x20;
+
+첫번째줄의 import는 삭제
+
+`npm run dev` 를 터미널에서 실행
+
+{% embed url="http://localhost:3000" %}
+

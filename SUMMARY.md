@@ -15,3 +15,13 @@
 ## Next-JS
 
 * [How to install](next-js/how-to-install.md)
+* [App Router](next-js/app-router.md)
+
+## Glossary
+
+* [nest 구조](glossary/nest.md)
+
+## Group 1
+
+* [GMGN2 Insider Trade](group-1/gmgn2-insider-trade.md)
+* [GMGN1](group-1/gmgn1.md)
